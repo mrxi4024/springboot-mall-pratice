@@ -1,1 +1,1 @@
-# springboot-pratice
+# springboot-mall-pratice
